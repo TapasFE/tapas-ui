@@ -6,6 +6,8 @@
 
 # Tapas UI [![](https://img.shields.io/travis/TapasFE/tapas-ui.svg?style=flat-square)](https://travis-ci.org/TapasFE/tapas-ui) [![npm package](https://img.shields.io/npm/v/tapas-ui.svg?style=flat-square)](https://www.npmjs.org/package/tapas-ui) [![NPM downloads](http://img.shields.io/npm/dm/tapas-ui.svg?style=flat-square)](https://npmjs.org/package/tapas-ui) [![Join the chat at https://gitter.im/TapasFE/tapas-ui](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TapasFE/tapas-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/TapasFE/tapas-ui](https://badges.gitter.im/TapasFE/tapas-ui.svg)](https://gitter.im/TapasFE/tapas-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An enterprise-class UI design language and React-based implementation.
 
 ## Features
