@@ -43,6 +43,7 @@ const UIKit = {
   Calendar: require('./components/calendar'),
   TimePicker: require('./components/time-picker'),
   Transfer: require('./components/transfer'),
+  Editor: require('./components/editor')
 };
 
 UIKit.version = require('./package.json').version;

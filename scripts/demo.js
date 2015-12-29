@@ -30,6 +30,7 @@ var antd = require('../index');
 var React = require('react');
 var ReactDOM = require('react-dom');
 var semver = require('semver');
+window['tapas-ui'] = antd;
 window.antd = antd;
 window.React = React;
 window.ReactDOM = ReactDOM;

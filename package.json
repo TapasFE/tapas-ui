@@ -65,6 +65,7 @@
     "rc-util": "~3.0.1",
     "react-slick": "~0.9.1",
     "semver": "~5.0.3",
+    "tapas-editor": "^1.0.0",
     "util-deprecate": "~1.0.1",
     "velocity-animate": "~1.2.2",
     "warning": "~2.1.0"
