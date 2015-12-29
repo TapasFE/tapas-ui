@@ -4,6 +4,10 @@
 
 ---
 
+## 0.1.1
+
+Published on npm.
+
 ## 0.1.0
 
 Mirror Ant Design.
