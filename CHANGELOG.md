@@ -4,6 +4,10 @@
 
 ---
 
+## 0.1.2
+
+Build on travis.
+
 ## 0.1.1
 
 Published on npm.
