@@ -4,6 +4,14 @@
 
 ---
 
+## 0.1.4
+
+Export tinymce from tapas editor.
+
+## 0.1.3
+
+Add tapas editor.
+
 ## 0.1.2
 
 Build on travis.
